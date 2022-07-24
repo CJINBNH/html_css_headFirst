@@ -1,0 +1,64 @@
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size:  small;
+    font-weight: bold;
+    background-color: #eeeeee;
+}
+h1, h2 {
+    font-weight: normal;
+    color: #cc6600;
+    border-bottom: thin dotted #888888; 
+}
+h1 {
+    font-size: 170%;
+}
+h2 {
+    font-size: 130%;
+}
+h3 {
+    text-decoration: underline overline;
+}
+blockquote {
+     font-style: italic;
+}
+table {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: thin solid  black;
+    caption-side: bottom;
+    border-collapse: collapse;
+}
+td, th {
+    border: thin dotted gray;
+    padding: 5px;
+}
+th {
+    background-color: #cc6600;
+}
+li {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+.center {
+    text-align: center;
+}
+.right-edge {
+    text-align: right;
+}
+.cellcolor {
+    background-color: #fcba7a;
+}
+table table th {
+    background-color: #eeeeee;
+    font-weight: bold;
+}
+.girl {
+    background-color: pink;
+}
+.boy {
+    background-color: #1111ff;
+}
+caption {
+    font-style: italic;
+    padding-top: 8px;
+}

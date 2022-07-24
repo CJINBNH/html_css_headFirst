@@ -1,0 +1,95 @@
+#elixirs {
+    background-image: url(https://clipart-best.com/img/cocktail/cocktail-clip-art-134.png);
+    background-repeat: repeat-x;
+    background-size: 50px;
+    background-position-y: top;
+    background-color: #ffccff;
+    line-height: 1;
+    text-align: center;
+    width: 200px;
+    margin-left: 20px;
+    padding: 30px 20px 20px 20px;
+    border-color: #007e7e solid thin;
+    float: right;
+}
+#elixirs h2 {
+    color: black;
+}
+#elixirs h3 {
+    color: #d12c47;
+}
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: small;
+    line-height: 1.6em;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+}
+p.purpletea {
+    color:purple;
+}
+p.blueberrytea  {
+    color: blueviolet;
+}
+p.raspberrytea {
+    color: rebeccapurple;
+}
+p.greentea {
+    color: greenyellow;     
+}
+h1, h2 {
+    color: #007e7e;
+}
+h1 {
+    font-size: 200%;
+}
+h2 {
+    font-size: 140%;
+}
+h3 {
+    font-size: 130%;
+}
+#quarantee {
+    line-height: 1.9em;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #444444;
+    border-color: #ffffff;
+    border-width: thin;
+    border-style: dashed;
+    padding: 25px;
+    padding-left: 250px;
+    margin: 30px;
+    margin-right: 250px;
+    background-image:url(https://pngimg.com/uploads/star/star_PNG76856.png);
+    background-color: #a7cece;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+#footer {
+    color: red;
+}
+#copyright {
+    font-size: 50%;
+    text-align: center;
+    line-height: normal;
+    margin-top: 30px;
+}
+#elixirs a:link {
+    color: #007e7e;
+}
+#elixirs a:visited {
+    color: #333333;
+}
+#elixirs a:hover {
+    background: #f88396;
+    color: #0d5353;
+}
+.lounge-link a:link {
+    color: #007e7e;
+}
+.lounge-link a:visited {
+    color: #333;
+}
